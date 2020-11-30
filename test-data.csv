@@ -35,3 +35,4 @@ bin,brand,type,category,issuer,alpha_2,alpha_3,country,latitude,longitude,bank_p
 180019,JCB,CREDIT,,"JCB CO., LTD.",JP,JPN,Japan,36.2048,138.253,,
 180020,JCB,CREDIT,,"JCB CO., LTD.",JP,JPN,Japan,36.2048,138.253,,
 180021,JCB,CREDIT,,"JCB CO., LTD.",JP,JPN,Japan,36.2048,138.253,,
+131000,PRIVATE LABEL,DEBIT,,,US,USA,United States,37.0902,-95.7129,,
